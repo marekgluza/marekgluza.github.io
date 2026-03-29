@@ -8,8 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Available PhD positions"
-    url: /phd_openings/
+  - title: "Available positions"
+    url: /available_positions/
+pff:
   - title: "Available Postdoc positions"
     url: /rf_openings/
   - title: "Available other positions"
