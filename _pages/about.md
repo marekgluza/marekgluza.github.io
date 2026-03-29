@@ -1,9 +1,6 @@
 ---
 permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 title: "What is the Nanyang Quantum Middleware group?"
 ---
 
