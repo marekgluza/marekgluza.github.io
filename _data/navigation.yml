@@ -9,7 +9,7 @@
 
 main:
   - title: "Available positions"
-    url: /available_positions/
+    url: /available_positions/openings
 pff:
   - title: "Available Postdoc positions"
     url: /rf_openings/
