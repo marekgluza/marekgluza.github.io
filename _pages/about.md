@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: "What is Nanyang Quantum Middleware group?"
-permalink: /about/
+permalink: /
 author_profile: true
-redirect_from:
-  - 
+redirect_from: 
+  - /about/
+  - /about.html
+title: "What is the Nanyang Quantum Middleware group?"
 ---
 
 {% include base_path %}
