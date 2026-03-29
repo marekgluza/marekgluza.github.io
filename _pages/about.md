@@ -9,17 +9,16 @@ title: "What is the Nanyang Quantum Middleware group?"
 
 {% include base_path %}
 
-Nanyang Quantum Middleware (NQM) is meant to serve as a connective tissue between
-the abstract elegance of mathematical physics and the pragmatic constraints of experimental engineering. 
+NQM serves as the connective tissue between the generative guidance of mathematical physics and the engendering actionability of experimental engineering.
 Managed by Marek Gluza, the group invites diverse talents to come together and learn how to operate as a transdisciplinary gateway 
 that facilitates getting things done in quantum technologies.
 We focus on mastering technical excellence such that we can come together with trusted partners to work on the real deal in quantum technologies.
 
 Defining the ``Nanyang`` in NQM:
 ======
-In NQM, Nanyang stands for a stack of commitments to places and peoples:
+In NQM, Nanyang stands for the following stack of commitments to places and peoples.
 * The Immediate: NQM is anchored at Nanyang Technological University, where we do our work.
-* The Regional: Situated in Singapore and Southeast Asia, it is a port of entry for people to come in and out, for sharing and enriching each other through depth of ideas. 
+* The Regional: Situated in Singapore and Southeast Asia, it is a port of entry for people to come in and out, for exchanging and developing ideas that expand our explanatory reach. 
 * The Global: The shorelines of our seas connect us all across all continents, like the web of internet or the publications we post to Arxiv.
 
 Defining the ``Quantum`` in NQM:
