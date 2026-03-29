@@ -8,6 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Available PhD positions"
+    url: /phd_openings/
+  - title: "Available Postdoc positions"
+    url: /rf_openings/
+  - title: "Available other positions"
+    url: /ra+po_openings/
+  - title: "Guide for new members"
+    url: /guide_NQM_members/
+off:
   - title: "Publications"
     url: /publications/
 
