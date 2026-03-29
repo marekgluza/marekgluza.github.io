@@ -23,7 +23,7 @@ repository               : "marekgluza/marekgluza.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "obraz.png"
   name             : "Nyanyang Quantum Middleware"
   pronouns         : # example: "she/her"  
   bio              : "Group supported by the Nanyang Assistant Professorship grant awarded to Marek Gluza"
