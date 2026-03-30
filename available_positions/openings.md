@@ -14,23 +14,27 @@ Table of contents:
 ## Postdoc Offers
 At NTU Research Fellow is the name of the role of a Postdoc. You must have a PhD. 
 
-If you qualify for this job but are in the process of receiving your PhD then I would have to reopen this opening as a Research Associate. Once you get your A4 paper stating a doctoral title next to your name the contract can then be migrated.
+If you qualify for this job but are in the process of receiving your PhD then I would have to reopen this opening as a Research Associate. Once you get you doctoral title, the contract can then be upgraded through an internal process.
 
 ### Postdoc position A
 
 **AKA Research Fellow in "Preparing big quantum states of systems with big quantum effects"** 
 
-We are seeking an either highly motivated researcher or a highly smart individual, or both. With a PhD in Physics or Mathematics who will tailor previously-novel quantum algorithms to compile quantum circuits of a size just large enough so prototypes of quantum computers can run these.
+We are seeking an either highly motivated researcher or a highly smart individual, or both, to tailor quantum circuits capable of preparing cold quantum many-body states with not too many operations so prototypes of quantum computers can run these.
+This is a postdoc position, you must have a PhD degree but if you're close to graduation then you can start as Research Associate.
+
+With whom? With Prof. Marek Gluza at NTU Singapore who is eager to debate with you whether double-bracket quantum algorithms or a different approach are the right one when executing on Helios or Heron. The research group is being formed but see [https://marekgluza.github.io/](https://marekgluza.github.io/) for the indended culture centered on the idea of serving experimental efforts through theoretical support developing quantum middleware solutions.
 
 * **Duration:** 2 years (renewable)
 * **Deadline:** May 1st, 2026
-* [Apply for Postdoc Position by clicking this text and sendin an email to Marek Gluza](mailto:marekludwik.gluza@ntu.edu.sg) including your:
+* [Apply for Postdoc Position by clicking this text and sending an email to Marek Gluza](mailto:marekludwik.gluza@ntu.edu.sg) which should include:
   1. A paragraph how you would use either DBQAs or a different solution for the above. 
   2. Link to your Google scholar.
-  3. Link to your best paper: "My best paper is arXiv:... because ...".
+  3. Link to your best paper and state the reason: "My best paper is arXiv:... because ...".
   3.1. You may want to optionally highlight any other paper that would be a suitable conversation starter.
   4. Your professional CV.
-       
+  5. Optionally: Cover letter. As part of our merit-based hiring, we recognize that potential isn't always reflected in traditional metrics. We invite all applicants to contextualize their journey in a personally written cover letter. This helps us evaluate your prospective potential alongside your existing abilities; see the guide for applicants for more information. Applicants from underrepresented groups or those from countries affected by crises are particularly encouraged to provide one.
+     
 See this link to know what I'm looking at in your portfolio.
 
 ##Postdoc position A
