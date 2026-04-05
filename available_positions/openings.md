@@ -86,7 +86,6 @@ With whom? With Prof. Marek Gluza at NTU Singapore who is eager to debate with y
   4. Your professional CV.
   5. Optionally: Cover letter. As part of our merit-based hiring, we recognize that potential isn't always reflected in traditional metrics. We invite all applicants to contextualize their journey in a personally written cover letter. This helps us evaluate your prospective potential alongside your existing abilities; see the guide for applicants for more information. Applicants from underrepresented groups or those from countries affected by crises are particularly encouraged to provide one.
      
-See this link to know what I'm looking at in your portfolio.
  
 ### Postdoc position B 
 **Research Fellow in "Deploying geometrically-designed algorithms"**
@@ -110,9 +109,6 @@ With whom? With Prof. Marek Gluza at NTU Singapore who is eager to debate with y
   4. Your professional CV.
   5. Optionally: Cover letter. As part of our merit-based hiring, we recognize that potential isn't always reflected in traditional metrics. We invite all applicants to contextualize their journey in a personally written cover letter. This helps us evaluate your prospective potential alongside your existing abilities; see the guide for applicants for more information. Applicants from underrepresented groups or those from countries affected by crises are particularly encouraged to provide one.
      
-See this link to know what I'm looking at in your portfolio.
-
-
 
 ### Postdoc position C
 **Research Fellow in "Quantum middleware solutions architect"**
@@ -136,8 +132,6 @@ With whom? With Prof. Marek Gluza at NTU Singapore who is eager to debate with y
   4. Your professional CV.
   5. Optionally: Cover letter. As part of our merit-based hiring, we recognize that potential isn't always reflected in traditional metrics. We invite all applicants to contextualize their journey in a personally written cover letter. This helps us evaluate your prospective potential alongside your existing abilities; see the guide for applicants for more information. Applicants from underrepresented groups or those from countries affected by crises are particularly encouraged to provide one.
      
-See this link to know what I'm looking at in your portfolio.
-
      
 ### **Note for Applicants:** 
 Shortlisted candidates will eventually need to complete a formal application via the **NTU Careers portal** to satisfy HR requirements. That official posting will likely ask for a "highly motivated candidate," but I hope you will keep your smarts nonetheless. 
