@@ -39,7 +39,7 @@ The team (5 PhD students, 3 Postdocs, 2 RAs) will operate along the following 3 
 
 
 How to join:
-You apply by email which you will find in my papers. To pass the filtering of generic applicants:
+You apply by email. To pass the filtering of generic applicants:
 
     Watch the movie Moneyball (or ask Gemini to summarize it).
 
