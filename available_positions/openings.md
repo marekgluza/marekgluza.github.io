@@ -176,7 +176,7 @@ You will work on proposing new hardware solutions for programming fermionic atom
 ### **Project E: Timing a spin flip in an equilibrating system using entanglement** 
 You will work on designing quantum non-equilibrium dynamics with ideas from quantum computing.
 
-### **Project X+iY: You name it** 
+### **Project $X+iY$: Complex wildcard** 
 I don't mind a challenge. If none of the above works give me a constructive feedback, describe how your strengths go beyond these and I will brainstorm with you how to fund your PhD project.
 
 ---
