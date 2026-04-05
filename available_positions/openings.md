@@ -9,6 +9,7 @@ See the description just below for the 3 main team profiles at NQS and orient yo
   * [Postdoc position B](#postdoc-position-b) Circuit fellow: Deploy geometrically-designed algorithms optimization
   * [Postdoc position C](#postdoc-position-c) Middleware fellow: Make quantum computing prototypes do more
 * PhD: [If you want a PhD, click here for PhD projects](#phd-openings). Read the postdoc openings because you will be trained along one of those 3 profiles.
+* Undergrad students: Explore the PhD project proposals by prompting Gemini and send me an email with a link to your conversation. The information of what you checked and how you approached the task should give me enough information to advise you on your possibilities.
 * Research assistants: [If you want to assist our research, see here for other openings](#other-openings). Read the PhD project descriptions because you will be assisting in their projects.
 
 # 10 roles, one strike-team: Nanyang Quantum Solutions @ NTU Singapore
