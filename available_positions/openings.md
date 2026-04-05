@@ -61,7 +61,8 @@ At NTU Research Fellow is the name of the role of a Postdoc. You must have a PhD
 
 If you qualify for this job but are in the process of receiving your PhD then I would have to reopen this opening as a Research Associate. Once you get you doctoral title, the contract can then be upgraded through an internal process.
 
-### Postdoc position A: Research Fellow in "Geometrical design of quantum algorithms"
+### Postdoc position A
+**Research Fellow in "Geometrical design of quantum algorithms"**
 
 We are seeking an either highly motivated researcher or a highly smart individual, or both, to design quantum algorithms based on Riemannian optimization for tasks such as matrix diagonalization, quantum signal processing or preparing cold quantum many-body states with not too many operations so prototypes of quantum computers can run these.
 This is a postdoc position, you must have a PhD degree but if you're close to graduation then you can start as Research Associate.
@@ -84,7 +85,8 @@ With whom? With Prof. Marek Gluza at NTU Singapore who is eager to debate with y
      
 See this link to know what I'm looking at in your portfolio.
  
-### Postdoc position B: Research Fellow in "Deploying geometrically-designed algorithms"
+### Postdoc position B 
+**Research Fellow in "Deploying geometrically-designed algorithms"**
 
 We are seeking an either highly motivated researcher or a highly smart individual, or both, to tailor quantum circuits based on double-bracket quantum algorithms capable of preparing cold quantum many-body states with not too many operations so prototypes of quantum computers can run these.
 This is a postdoc position, you must have a PhD degree but if you're close to graduation then you can start as Research Associate.
@@ -109,7 +111,8 @@ See this link to know what I'm looking at in your portfolio.
 
 
 
-### Postdoc position C: Research Fellow in "Quantum middleware solutions architect"
+### Postdoc position C
+**Research Fellow in "Quantum middleware solutions architect"**
 
 We are seeking an either highly motivated researcher or a highly smart individual, or both, to tailor quantum middleware solutions enhancing the performance of quantum hardware when benchmarked using double-bracket quantum algorithms for the task of preparing cold quantum many-body states.
 This is a postdoc position, you must have a PhD degree but if you're close to graduation then you can start as Research Associate.
@@ -180,7 +183,7 @@ I don't mind a challenge. If none of the above works give me a constructive feed
 
 **Role: Research Assistant** We are looking for a detail-oriented individual to assist with data collection and daily lab operations. Perfect for recent graduates looking for research experience before grad school.
 * **Type:** Full-time or Part-time.
-* * **Duration:** 1 year (renewable)
+* **Duration:** 1 year (renewable)
 * **Deadline:** May 1st, 2026
 * **Skills:** Python, basic statistics, and excellent organization.
 * [Apply for this RA opening by clicking this text and sending an email to Marek Gluza](mailto:marekludwik.gluza@ntu.edu.sg) which should include:
