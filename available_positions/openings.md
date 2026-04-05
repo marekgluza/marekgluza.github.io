@@ -142,71 +142,37 @@ The formal link will be available within the next 4 weeks; in the meantime, plea
 
 ## PhD Openings
 
-### **Project A: Designing quantum algorithms using Riemannian geometry** 
-
-Applications are invited for a fully funded PhD studentship. You will work on designing quantum algorithms using Riemannian geometry.
-
+Applications are invited for 5 fully funded PhD projects with topics on quantum computing, non-equilibrium dynamics, mathematical physics, many-body physics and hardware engineering.
 
 * **Requirements:** Master’s degree in Physics, CS, Math, or Engineering. Exceptional candidates without a Master's will be considered too.
 * **Funding:** Full tuition + competitive stipend.
-* How to apply: You will apply for a formal scholarship and will be vetted by a committee. To take up your candidacy I will need you to  [send an email to Marek Gluza](mailto:marekludwik.gluza@ntu.edu.sg) which should include:
+* How to apply: Select at least one project below. You will apply for a formal scholarship and will be vetted by a committee. To take up your candidacy I will need you to  [send an email to Marek Gluza](mailto:marekludwik.gluza@ntu.edu.sg) which should include:
   1. A paragraph about how you solved your biggest mistake during your studies. 
   2. The lecture course that taught you the most so far.
   2.1. You may want to optionally highlight any other lecture course that would be a suitable conversation starter.
   3. Your professional CV.
   4. Optionally: Cover letter. As part of our merit-based hiring, we recognize that potential isn't always reflected in traditional metrics. We invite all applicants to contextualize their journey in a personally written cover letter. This helps us evaluate your prospective potential alongside your existing abilities; see the guide for applicants for more information. Applicants from underrepresented groups or those from countries affected by crises are particularly encouraged to provide one.
+
+### **Project A: Designing quantum algorithms using Riemannian geometry** 
+You will work on designing quantum algorithms using Riemannian geometry.
 
 ### **Project B: Quantum middleware solutions facilitating large-scale execution of quantum algorithms** 
 
-Applications are invited for a fully funded PhD studentship. You will be working on making quantum hardware prototypes work. Quantum middleware means that you will learn to have contributions both on quantum software and hardware, for the latter you will collaborate with either Prof. D. Wilkowski or R. Dumke, and probably both.
-
-* **Requirements:** Master’s degree in Physics, CS, Math, or Engineering. Exceptional candidates without a Master's will be considered too.
-* **Funding:** Full tuition + competitive stipend.
-* How to apply: You will apply for a formal scholarship and will be vetted by a committee. To take up your candidacy I will need you to  [send an email to Marek Gluza](mailto:marekludwik.gluza@ntu.edu.sg) which should include:
-  1. A paragraph about how you solved your biggest mistake during your studies. 
-  2. The lecture course that taught you the most so far.
-  2.1. You may want to optionally highlight any other lecture course that would be a suitable conversation starter.
-  3. Your professional CV.
-  4. Optionally: Cover letter. As part of our merit-based hiring, we recognize that potential isn't always reflected in traditional metrics. We invite all applicants to contextualize their journey in a personally written cover letter. This helps us evaluate your prospective potential alongside your existing abilities; see the guide for applicants for more information. Applicants from underrepresented groups or those from countries affected by crises are particularly encouraged to provide one.
+You will be working on making quantum hardware prototypes work. Quantum middleware means that you will learn to have contributions both on quantum software and hardware, for the latter you will collaborate with either Prof. D. Wilkowski or R. Dumke, and probably both.
 
 ### **Project C: Learning effective models of correlated quantum matter from double-bracket quantum algorithms** 
 
-Applications are invited for a fully funded PhD studentship. You will work on using double-bracket quantum algorithms for learning effective models of complicated quantum systems.
-
-* **Requirements:** Master’s degree in Physics, CS, Math, or Engineering. Exceptional candidates without a Master's will be considered too.
-* **Funding:** Full tuition + competitive stipend.
-* How to apply: You will apply for a formal scholarship and will be vetted by a committee. To take up your candidacy I will need you to  [send an email to Marek Gluza](mailto:marekludwik.gluza@ntu.edu.sg) which should include:
-  1. A paragraph about how you solved your biggest mistake during your studies. 
-  2. The lecture course that taught you the most so far.
-  2.1. You may want to optionally highlight any other lecture course that would be a suitable conversation starter.
-  3. Your professional CV.
-  4. Optionally: Cover letter. As part of our merit-based hiring, we recognize that potential isn't always reflected in traditional metrics. We invite all applicants to contextualize their journey in a personally written cover letter. This helps us evaluate your prospective potential alongside your existing abilities; see the guide for applicants for more information. Applicants from underrepresented groups or those from countries affected by crises are particularly encouraged to provide one.
+You will work on using double-bracket quantum algorithms for learning effective models of complicated quantum systems.
 
 ### **Project D: Fermionic programmable gate-arrays** 
 
-Applications are invited for a fully funded PhD studentship. You will work on proposing new hardware solutions for programming fermionic atoms trapped and controlled using optical tweezers.
-
-* **Requirements:** Master’s degree in Physics, CS, Math, or Engineering. Exceptional candidates without a Master's will be considered too.
-* **Funding:** Full tuition + competitive stipend.
-* How to apply: You will apply for a formal scholarship and will be vetted by a committee. To take up your candidacy I will need you to  [send an email to Marek Gluza](mailto:marekludwik.gluza@ntu.edu.sg) which should include:
-  1. A paragraph about how you solved your biggest mistake during your studies. 
-  2. The lecture course that taught you the most so far.
-  2.1. You may want to optionally highlight any other lecture course that would be a suitable conversation starter.
-  3. Your professional CV.
-  4. Optionally: Cover letter. As part of our merit-based hiring, we recognize that potential isn't always reflected in traditional metrics. We invite all applicants to contextualize their journey in a personally written cover letter. This helps us evaluate your prospective potential alongside your existing abilities; see the guide for applicants for more information. Applicants from underrepresented groups or those from countries affected by crises are particularly encouraged to provide one.
+You will work on proposing new hardware solutions for programming fermionic atoms trapped and controlled using optical tweezers.
      
 ### **Project E: Timing a spin flip in an equilibrating system using entanglement** 
+You will work on designing quantum non-equilibrium dynamics with ideas from quantum computing.
 
-Applications are invited for a fully funded PhD studentship. You will work on non-equilibrium dynamics.
-
-* **Requirements:** Master’s degree in Physics, CS, Math, or Engineering. Exceptional candidates without a Master's will be considered too.
-* **Funding:** Full tuition + competitive stipend.
-* How to apply: You will apply for a formal scholarship and will be vetted by a committee. To take up your candidacy I will need you to  [send an email to Marek Gluza](mailto:marekludwik.gluza@ntu.edu.sg) which should include:
-  1. A paragraph about how you solved your biggest mistake during your studies. 
-  2. The lecture course that taught you the most so far.
-  2.1. You may want to optionally highlight any other lecture course that would be a suitable conversation starter.
-  3. Your professional CV.
-  4. Optionally: Cover letter. As part of our merit-based hiring, we recognize that potential isn't always reflected in traditional metrics. We invite all applicants to contextualize their journey in a personally written cover letter. This helps us evaluate your prospective potential alongside your existing abilities; see the guide for applicants for more information. Applicants from underrepresented groups or those from countries affected by crises are particularly encouraged to provide one.
+### **Project X: You name it** 
+I don't mind a challenge. If none of the above works give me a constructive feedback, describe how your strengths go beyond these and I will brainstorm with you how to fund your PhD project.
 
 ---
 
