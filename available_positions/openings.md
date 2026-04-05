@@ -1,5 +1,5 @@
 ---
-title: " 10 roles, one strike-team: Nanyang Quantum Solutions @ NTU Singapore"
+title: " 10 roles, one strike-team: Nanyang Quantum Solutions"
 excerpt: "Short description of roles funded by NAP"
 collection: opening
 ---
