@@ -1,6 +1,5 @@
 ---
-title: " 10 roles, one quantum solutions unit: 
-Nanyang Quantum Solutions"
+title: " 10 roles, one quantum solutions unit"
 excerpt: "Short description of roles funded by NAP"
 collection: opening
 ---
