@@ -12,7 +12,7 @@ See the description just below for the 3 main team profiles at NQS and orient yo
 * Undergrad students: Explore the PhD project proposals by prompting Gemini and send me an email with a link to your conversation. The information of what you checked and how you approached the task should give me enough information to advise you on your possibilities.
 * Research assistants: [If you want to assist our research, see here for other openings](#other-openings). Read the PhD project descriptions because you will be assisting in their projects.
 
-### Context from, Marek Gluza, the hiring manager:
+### Context from Marek Gluza, the hiring manager:
 I’m hiring a strike-team of 10 intellectual 'Swiss-knives' who will forge quantum technology advances with me at NTU Singapore.
 I’ll teach you how to operate like a Swiss-knife serving between quantum theory and hardware reality. 
 You don’t need to have it all figured out, but you need to know what you bring to the table.
