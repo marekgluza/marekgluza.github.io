@@ -47,7 +47,10 @@ You apply by email which you will find in my papers. To pass the filtering of ge
 
     You may add a cover letter to contextualize your background.
 
-To pass the interview: You need to manage to tell me at least one thing that I don't know, but that I could use.
+To pass the interview: 
+
+    Tell me at least one thing that I don't know, but that I could use.
+
 
 
 
