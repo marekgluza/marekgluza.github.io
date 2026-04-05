@@ -5,9 +5,9 @@ collection: opening
 ---
 See the description just below for the 3 main team profiles at NQS and orient yourself via this table of contents:
 * Postdocs: [If you have a PhD, click here for Postdoc offers](#postdoc-offers)
-  * [Postdoc position A](#postdoc-position-a) Circuit compilation: Preparing quantum many-body states on quantum computers
-  * [Postdoc position B](#postdoc-position-b) Unitary synthesis: Developing quantum algorithms based on Riemannian optimization
-  * [Postdoc position C](#postdoc-position-c) Middleware fellow: Extending the operation capabilities of quantum computing prototypes
+  * [Postdoc position A](#postdoc-position-a) Algorithms fellow: Design quantum algorithms using Riemannian gradient flows
+  * [Postdoc position B](#postdoc-position-b) Circuit fellow: Deploy geometrically-designed algorithms optimization
+  * [Postdoc position C](#postdoc-position-c) Middleware fellow: Make quantum computing prototypes do more
 * PhD: [If you want a PhD, click here for PhD projects](#phd-openings). Read the postdoc openings because you will be trained along one of those 3 profiles.
 * Research assistants: [If you want to assist our research, see here for other openings](#other-openings). Read the PhD project descriptions because you will be assisting in their projects.
 
