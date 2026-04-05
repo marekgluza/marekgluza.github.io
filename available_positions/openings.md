@@ -31,7 +31,7 @@ The team (5 PhD students, 3 Postdocs, 2 RAs) will operate along 3 profiles:
 #### B. From algorithms to circuits: Deploying geometrically-designed algorithms.
 
 - Core: You will code in python or Julia (I don't like it, but you can go with Rust if you must) to get actual gate counts in Qrisp because triangle inequalities are usually far off. Ideally, bring down resource estimates to the hardware level. 
-- Who: If you are protective of your programming and were producing code before clode, the 2nd postdoc role is the one for you. I need you to be so good in coding, though, that you are looking to grow.
+- Who: If you are protective of your programming and were producing code before Claude, the 2nd postdoc role is the one for you. I need you to be so good in coding, though, that you are looking to grow.
 - Important: You'll validate feasibility on commercially available hardware—Helios is coming to Singapore—and liaise with providers using neutral atoms.
 
 #### C. From circuits to hardware: Constructing new engineering solutions.
