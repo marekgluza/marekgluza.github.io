@@ -13,8 +13,9 @@ See the description just below for the 3 main team profiles at NQS and orient yo
 * Research assistants: [If you want to assist our research, see here for other openings](#other-openings). Read the PhD project descriptions because you will be assisting in their projects.
 
 ### Context from the hiring manager
-
-I'm hiring for 10 roles in a new quantum technologies strike-team in Singapore. I’ll teach you how to operate like a Swiss-knife serving between quantum theory and hardware reality. You don’t need to have it all figured out, but you need to know what you bring to the table.
+I’m hiring a strike-team of 10 intellectual 'Swiss-knives' who will forge quantum technology advances with me at NTU Singapore.
+I’ll teach you how to operate like a Swiss-knife serving between quantum theory and hardware reality. 
+You don’t need to have it all figured out, but you need to know what you bring to the table.
 
 The team (5 PhD students, 3 Postdocs, 2 RAs) will operate along the following 3 profiles and then see the job descriptions below (or use links above).
 
