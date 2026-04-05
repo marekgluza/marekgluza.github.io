@@ -53,6 +53,8 @@ To pass the interview: You need to manage to tell me at least one thing that I d
 
 
 # Job descriptions
+
+You will be working at NTU in Singapore. If you have any worries, do check with AI that your initial hesitations can be quickly answered because it's simply a very top environment to work at. E.g. ask Gemini about NTU's topping of academic rankings or about Singapore being awesome https://gemini.google.com/share/c8926986ff00
 ***
 ## Postdoc Offers
 At NTU Research Fellow is the name of the role of a Postdoc. You must have a PhD. 
