@@ -1,5 +1,5 @@
 ---
-title: " 10 roles, one quantum solutions unit"
+title: " 10 openings for 10 minds to work in one quantum solutions unit"
 excerpt: "Short description of roles funded by NAP"
 collection: opening
 ---
@@ -50,7 +50,7 @@ You apply by email. To pass the filtering of generic applicants:
 
 To pass the interview: 
 
-    Tell me at least one thing that I don't know, but that I could use.
+    Tell me at least one thing that I don't know, but I will need. Before I hire you, we both must know what warrants that decision.
 
 
 
