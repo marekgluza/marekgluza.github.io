@@ -1,7 +1,7 @@
 ---
 permalink: /topics/overview
 author_profile: true
-title: "What is quantum middleware and what is NQS adding to it?"
+title: "What is NQS working on?"
 ---
  
 
