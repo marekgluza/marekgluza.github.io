@@ -1,22 +1,40 @@
 ---
 title: "Invitation for a career development consultation"
-excerpt: "Invitation for a career development consultation>"
+excerpt: "A collaborative approach to aligning long-term research goals and career pathways."
 collection: portfolio
 ---
 
+
 Dear peer & colleague,
 
-this is a short description of the context, idea, goals and possible outcomes for a career development consultation.
+This is a brief overview of the context, goals, and potential outcomes for a career development consultation.
 
-Context: Marek found that many of his valued peers, e.g. collaborators, potentially share overlapping goals to the objectives of his hirings but the hiring may not be viable from the outset. Viable means that offering a job would create a glitch because maybe you are pursuing a different goal, moving to Singapore may not be possible, you are already committed etc. However, rather than doing nothing or sending an offer triggering the glitch there is a better way to tackling such situations.
+#### 1. Context
+I often find that many of my valued peers and collaborators or talented students will naturally pursue goals that overlap with the objectives of my hirings but from the outset it is clear that exploring a formal offer would not be viable.
+Here "viable" could mean that you may be pursuing a different trajectory, a move to Singapore might not be feasible right now, or you have existing commitments.
+For me "viable" could mean that I will need the new member to step up to some challenges that would be illadvised for you now, which could, however, change in the future.
+Such known constraints would make sending an offer awkward.
 
-Idea: In a 45 minute conversation with Marek explore your career goals with Marek. 
+Rather than doing nothing or extending an offer that would trigger a glitch, I believe there is a more productive way to navigate these situations.
 
-Goals: You share what is your thinking, Marek first listens. We both then brainstorm and Marek provides 'yes, and' advice.
+#### 2. The Idea
+A 45-minute conversation to explore your career goals and how they might intersect with the broader research ecosystem I am building.
 
-Possible outcomes:
-- Marek gets to know your pathway and has strategic information what would be necessary for a hiring would become viable, e.g. you are already pursuing the next career step but it's a 1 year position and will be looking for something in the long run.
-- For you it's a backing up of what you are exploring. In the short run you onboard your peer on your strategic goals that you are pursuing now and without that information they will be less likely to be able to support this goal. In the long run you know that someone sustainably values your abilities so as key constraints evolve you can always reach out and see if a closer collaboration is possible.
+#### 3. The Goals
+1. For 15 minutes you share what is your thinking, Marek first listens. 
+2. We both then brainstorm for 15 minutes when Marek provides ‘yes, and’ advice. This may involve Marek sharing what he has in mind but to preclude any conflict of interest Marek would make it explicit that he is actively advertising rather than consulting. 
+3. This leaves 15 minutes for a wrap up and exploring what if's.
+
+#### 4. Possible Outcomes
+
+- Strategic alignment: I become onboarded about your strategic goals. I see you as a likely stand-out scientist in the coming 10 to 40 years and not just a potential talent to fill a 1 year postdoc position or a prospective PhD student in coming 4 years.
+
+- Direct support: By "onboarding" me onto your strategic goals, you ensure that I am better equipped to support your career milestones whenever I will see  opportunities for that.
+
+- Planning for flexibility As your constraints or my objectives evolve, we can easily reach out to see if a closer collaboration has become possible.
+
+- Long-term Value: We establish a foundation for a unique working relationship and through this time investment play at a level beyond regular networking.
 
 Best regards,
+
 Marek
