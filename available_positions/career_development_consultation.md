@@ -1,5 +1,5 @@
 ---
-title: "Invitation for a career development consultation"
+title: "Coupon for a career development consultation"
 excerpt: "A collaborative approach to aligning long-term research goals and career pathways."
 collection: portfolio
 ---
@@ -7,7 +7,7 @@ collection: portfolio
 
 Dear peer & colleague,
 
-This is a brief overview of the context, goals, and potential outcomes for a career development consultation.
+This is a brief overview of the context, goals, and potential outcomes for a suggested career development consultation.
 
 #### 1. Context
 I often find that many of my valued peers and collaborators or talented students will naturally pursue goals that overlap with the objectives of my hirings but from the outset it is clear that exploring a formal offer would not be viable.
