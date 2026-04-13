@@ -31,7 +31,7 @@ A 45-minute conversation to explore your career goals and how they might interse
 
 - Direct support: By "onboarding" me onto your strategic goals, you ensure that I am better equipped to support your career milestones whenever I will see  opportunities for that.
 
-- Planning for flexibility As your constraints or my objectives evolve, we can easily reach out to see if a closer collaboration has become possible.
+- Planning for flexibility: As your constraints or my objectives evolve, we can easily reach out to see if a closer collaboration has become possible.
 
 - Long-term value: We establish a foundation for a unique working relationship and through this time investment play at a level beyond regular networking.
 
