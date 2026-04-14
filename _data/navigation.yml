@@ -10,6 +10,10 @@
 main:
   - title: "Available positions"
     url: /available_positions/openings
+  - title: "NQS output"
+    url: /topics/overview
+  - title: "For NQS members"
+    url: /for_members/guidelines
 pff:
   - title: "Available Postdoc positions"
     url: /rf_openings/
