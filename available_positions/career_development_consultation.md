@@ -18,7 +18,8 @@ Such known constraints would make sending an offer awkward.
 Rather than doing nothing or extending an offer that would trigger a glitch, I believe there is a more productive way to navigate these situations.
 
 #### 2. The Idea
-A 45-minute conversation to explore your career goals and how they might intersect with the broader research ecosystem I am building.
+A 45-minute conversation to explore your career goals and how they might intersect with mine.
+
 
 #### 3. The Goals
 1. For 15 minutes you share what is your thinking, Marek first listens. 
