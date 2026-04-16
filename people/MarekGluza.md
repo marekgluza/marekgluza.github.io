@@ -1,0 +1,3 @@
+Bio for talks:
+Dr. Marek Gluza is a Senior Research Fellow at NTU and the inventor of double-bracket quantum algorithms which can serve as a general-purpose optimization solver in quantum computing and have led to several new protocols. Dr. Gluza earned his PhD under Prof. J. Eisert at Freie Universität Berlin and his diverse publication record spans subjects from tensor networks and statistical mechanics to experimental studies of quantum field theory. Privately, he believes the most critical challenge facing the future of fault-tolerant quantum computation is climate change. When playing chess, he opens with 1. b3 and is always happy to play a game.
+ 
