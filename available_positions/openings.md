@@ -98,10 +98,10 @@ With whom? With Prof. Marek Gluza at NTU Singapore who is eager to debate with y
 
 - Core: You will code in python or Julia (I don't like it, but you can go with Rust if you must) to get actual gate counts in Qrisp because triangle inequalities are usually far off. Ideally, bring down resource estimates to the hardware level. 
 - Key deliverable: You'll validate feasibility of the ideas that we will develop on commercially available hardware (Helios is coming to Singapore) and liaise with providers using neutral atoms.
-- Who will fulfill the requirements:
-  +: If you are protective of your programming and were producing code before Claude, this role will value your expertise. Er need you to be so good in coding, though, that you are looking to grow beyond just refactoring code.
-  +: If you have been running circuits on quantum hardware then that's directly needed. We need you to be the researcher bringing in the experience that allows you to be deploying the full pipeline starting from the whiteboard discussions with Marek, to supporting your junior peers and all the way to making sure research assistants have put the correct final plot into overleaf.
-  +: If you know fermions or have worked with FeMoCo then you will be able to help us. We need you to increase our expertise in this area, especially on the state-of-the-art prior to quantum computing and on finding molecular orbitals or 1-RDMs.
+- Who will fulfill the requirements:<br>
+  +: If you are protective of your programming and were producing code before Claude, this role will value your expertise. We need you to be so good in programming, though, that you are looking to grow beyond just coding.<br>
+  +: If you have been running circuits on quantum hardware then that's directly needed. We need you to be the researcher bringing in the experience that allows you to be deploying the full pipeline starting from the whiteboard discussions with Marek, to supporting your junior peers and all the way to making sure research assistants have put the correct final plot into overleaf.<br>
+  +: If you know fermions or have worked with FeMoCo then you will be able to help us. We need you to increase our expertise in this area, especially on the state-of-the-art prior to quantum computing and on finding molecular orbitals or 1-RDMs.<br>
 
 * **Duration:** 2 years (renewable)
 * **Deadline:** May 1st, 2026
