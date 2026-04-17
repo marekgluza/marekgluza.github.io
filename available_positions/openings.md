@@ -91,14 +91,17 @@ With whom? With Prof. Marek Gluza at NTU Singapore who is eager to debate with y
 ### Postdoc position B 
 **Research Fellow in "Deploying geometrically-designed algorithms"**
 
-We are seeking an either highly motivated researcher or a highly smart individual, or both, to tailor quantum circuits based on double-bracket quantum algorithms capable of preparing cold quantum many-body states with not too many operations so prototypes of quantum computers can run these.
-This is a postdoc position, you must have a PhD degree but if you're close to graduation then you can start as Research Associate.
+The Nanyang Quantum Solutions team led by Prof. Marek Gluza at NTU Singapore is seeking a new member to tailor quantum circuits based on geometrically motivated approaches capable of preparing cold quantum many-body states with not too many operations so prototypes of quantum computers can run these.
+This is a postdoc position, you must have a PhD degree.
 
-With whom? With Prof. Marek Gluza at NTU Singapore who is eager to debate with you whether double-bracket quantum algorithms or a different approach are the right one when executing on Helios or Heron. The research group is being formed but see [https://marekgluza.github.io/](https://marekgluza.github.io/) for the intended culture centered on the idea of serving experimental efforts through theoretical support developing quantum middleware solutions.
+With whom? With Prof. Marek Gluza at NTU Singapore who is eager to debate with you whether double-bracket quantum algorithms or a different approach are the right one when executing on Helios or Heron. The research group is being formed and see [https://marekgluza.github.io/](https://marekgluza.github.io/) for the intended culture centered on the idea of serving experimental efforts through theoretical support developing quantum middleware solutions.
 
 - Core: You will code in python or Julia (I don't like it, but you can go with Rust if you must) to get actual gate counts in Qrisp because triangle inequalities are usually far off. Ideally, bring down resource estimates to the hardware level. 
-- Who: If you are protective of your programming and were producing code before clode, the 2nd postdoc role is the one for you. I need you to be so good in coding, though, that you are looking to grow.
-- Important: You'll validate feasibility on commercially available hardware—Helios is coming to Singapore—and liaise with providers using neutral atoms.
+- Key deliverable: You'll validate feasibility of the ideas that we will develop on commercially available hardware (Helios is coming to Singapore) and liaise with providers using neutral atoms.
+- Who will fulfill the requirements:
+  +: If you are protective of your programming and were producing code before Claude, this role will value your expertise. Er need you to be so good in coding, though, that you are looking to grow beyond just refactoring code.
+  +: If you have been running circuits on quantum hardware then that's directly needed. We need you to be the researcher bringing in the experience that allows you to be deploying the full pipeline starting from the whiteboard discussions with Marek, to supporting your junior peers and all the way to making sure research assistants have put the correct final plot into overleaf.
+  +: If you know fermions or have worked with FeMoCo then you will be able to help us. We need you to increase our expertise in this area, especially on the state-of-the-art prior to quantum computing and on finding molecular orbitals or 1-RDMs.
 
 * **Duration:** 2 years (renewable)
 * **Deadline:** May 1st, 2026
