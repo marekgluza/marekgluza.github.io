@@ -4,7 +4,7 @@ excerpt: ""
 ---
 Marek's office is located at the pin on [this map](https://maps.ntu.edu.sg/?mazemap_share_url=https%3A%2F%2Fuse.mazemap.com%2F%3Futm_medium%3Dlongurl%23v%3D1%26config%3Dntu-sg%26zlevel%3D3%26center%3D103.682088%2C1.341895%26zoom%3D19%26campusid%3D2123%26sharepoitype%3Dpoi%26sharepoi%3D1003300012)
 
-<img src="../images/spms_map_office.png" alt="Description" width="200">
+<img src="images/spms_map_office.png" alt="Description" width="200">
 
 
 If you arrive by taxi at the drop-off called Lobby of SPMS at NTU (https://maps.app.goo.gl/MaxUx1Fq4u2uXGZC8)
