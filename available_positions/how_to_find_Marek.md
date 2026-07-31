@@ -3,7 +3,7 @@ title: "How to find Marek's office"
 excerpt: ""
 ---
 
-If you arrive by taxi at the drop-off called Lobby of SPMS at NTU
+If you arrive by taxi at the drop-off called Lobby of SPMS at NTU (https://maps.app.goo.gl/MaxUx1Fq4u2uXGZC8)
 
 <img src="../images/1.jpeg" alt="Description" width="200">
 
