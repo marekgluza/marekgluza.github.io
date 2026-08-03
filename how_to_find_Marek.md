@@ -2,7 +2,8 @@
 title: "How to find Marek's office"
 excerpt: ""
 ---
-Marek's office is located at the pin on [this map](https://maps.ntu.edu.sg/?mazemap_share_url=https%3A%2F%2Fuse.mazemap.com%2F%3Futm_medium%3Dlongurl%23v%3D1%26config%3Dntu-sg%26zlevel%3D3%26center%3D103.682088%2C1.341895%26zoom%3D19%26campusid%3D2123%26sharepoitype%3Dpoi%26sharepoi%3D1003300012)
+Marek's office is in the SPMS building at NTU and has door number PAP-03-13.
+It is located in the PAP division at the pin on [this map](https://maps.ntu.edu.sg/?mazemap_share_url=https%3A%2F%2Fuse.mazemap.com%2F%3Futm_medium%3Dlongurl%23v%3D1%26config%3Dntu-sg%26zlevel%3D3%26center%3D103.682088%2C1.341895%26zoom%3D19%26campusid%3D2123%26sharepoitype%3Dpoi%26sharepoi%3D1003300012)
 
 <img src="../images/spms_map_office.png" alt="Description" width="200">
 
